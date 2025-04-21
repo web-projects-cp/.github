@@ -9,14 +9,15 @@ Welcome to my **Web Projects** repository! This is a collection of frontend and 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
 | **[Portfolio](https://github.com/your-username/web-projects/tree/main/portfolio)** | A responsive portfolio website built with pure HTML and CSS. | [View Live](https://your-username.github.io/portfolio) |
-| **[Slider Puzzle](https://github.com/your-username/web-projects/tree/main/slide-puzzle)** | A drag-and-slide puzzle game using vanilla JavaScript. | [Play Live](https://your-username.github.io/slide-puzzle) |
-| **[Rock Paper Scissors](https://github.com/your-username/web-projects/tree/main/rock-paper-scissors)** | A classic game with interactive UI. | [Play Live](https://your-username.github.io/rock-paper-scissors) |
-| **[Calculator](https://github.com/your-username/web-projects/tree/main/calculator)** | A functional calculator built with JavaScript. | [View Live](https://your-username.github.io/calculator) |
+| **[Slider Puzzle](https://github.com/web-projects-cp/slider_puzzle)** | A drag-and-slide puzzle game using vanilla JavaScript. | [Play Live](https://cpoonkodi-sliderpuzzle.netlify.app/) |
+| **[Rock Paper Scissors](https://github.com/web-projects-cp/rock_paper_scissors)** | A classic game with interactive UI. | [Play Live](https://web-projects-cp.github.io/rock_paper_scissors/) |
+| **[Calculator](https://github.com/web-projects-cp/calculator)** | A functional calculator built with JavaScript. | [View Live](https://web-projects-cp.github.io/calculator/) |
 
 ### **React & TypeScript**
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
 | **[Weather App](https://github.com/your-username/web-projects/tree/main/weather-app)** | A weather dashboard fetching real-time data using React and APIs. | [View Live](https://your-weather-app.vercel.app) |
+| **[Chart](https://github.com/your-username/web-projects/tree/main/countries-list)** | A TypeScript app displaying chart data with search/filter features. | [View Live](https://your-countries-list.vercel.app) |
 | **[Countries List](https://github.com/your-username/web-projects/tree/main/countries-list)** | A TypeScript app displaying country data with search/filter features. | [View Live](https://your-countries-list.vercel.app) |
 
 ### **Full-Stack (Node.js + MongoDB)**
