@@ -16,7 +16,7 @@ Welcome to my **Web Projects** repository! This is a collection of frontend and 
 ### **React & TypeScript**
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| **[Weather App](https://github.com/your-username/web-projects/tree/main/weather-app)** | A weather dashboard fetching real-time data using React and APIs. | [View Live](https://your-weather-app.vercel.app) |
+| **[Weather App](https://github.com/web-projects-cp/weather_app)** | A weather dashboard fetching real-time data using React and APIs. | [View Live](https://cpoonkodi-weatherapi.netlify.app/) |
 | **[Chart](https://github.com/your-username/web-projects/tree/main/countries-list)** | A TypeScript app displaying chart data with search/filter features. | [View Live](https://your-countries-list.vercel.app) |
 | **[Countries List](https://github.com/your-username/web-projects/tree/main/countries-list)** | A TypeScript app displaying country data with search/filter features. | [View Live](https://your-countries-list.vercel.app) |
 
