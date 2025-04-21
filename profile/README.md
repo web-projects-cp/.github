@@ -9,7 +9,7 @@ Welcome to my **Web Projects** repository! This is a collection of frontend and 
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
 | **[Portfolio](https://github.com/your-username/web-projects/tree/main/portfolio)** | A responsive portfolio website built with pure HTML and CSS. | [View Live](https://your-username.github.io/portfolio) |
-| **[Slide Puzzle](https://github.com/your-username/web-projects/tree/main/slide-puzzle)** | A drag-and-slide puzzle game using vanilla JavaScript. | [Play Live](https://your-username.github.io/slide-puzzle) |
+| **[Slider Puzzle](https://github.com/your-username/web-projects/tree/main/slide-puzzle)** | A drag-and-slide puzzle game using vanilla JavaScript. | [Play Live](https://your-username.github.io/slide-puzzle) |
 | **[Rock Paper Scissors](https://github.com/your-username/web-projects/tree/main/rock-paper-scissors)** | A classic game with interactive UI. | [Play Live](https://your-username.github.io/rock-paper-scissors) |
 | **[Calculator](https://github.com/your-username/web-projects/tree/main/calculator)** | A functional calculator built with JavaScript. | [View Live](https://your-username.github.io/calculator) |
 
