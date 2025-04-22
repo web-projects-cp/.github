@@ -23,7 +23,7 @@ Welcome to my **Web Projects** repository! This is a collection of frontend and 
 ### **Full-Stack (Node.js + MongoDB)**
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| **[Library Management](https://github.com/your-username/web-projects/tree/main/library-management)** | A CRUD application with **TypeScript, Node.js, Express, and MongoDB** for managing books. | [View Live](https://your-library-app.herokuapp.com) |
+| **[Library Management](https://github.com/web-projects-cp/library-management-system)** | A CRUD application with **TypeScript, Node.js, Express, and MongoDB** for managing books. | [View Live](https://your-library-app.herokuapp.com) |
 
 ---
 
