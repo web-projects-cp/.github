@@ -48,10 +48,15 @@ Welcome to my **Web Projects** repository! This is a collection of frontend and 
 ## 🔍 More Projects in My GitHub
 
 [JavaScript-DOM-Element-Creator](https://github.com/web-projects-cp/JavaScript-DOM-Element-Creator) -  Create the DOM elements in Javascript.
+
 [JavaScript-Million-Counter](https://github.com/web-projects-cp/JavaScript-Million-Counter) - A simple web application that counts and displays numbers from 1 to 1,000,000 in the console and on the webpage.
+
 [CSS-SASS-Feature-Animation](https://github.com/web-projects-cp/css-sass-feature-animation) - A responsive portfolio website showcasing my skills, experience, and projects as a frontend developer. Built with modern web technologies and featuring clean animations.
+
 [FS10-Git-Collaboration-Lab](https://github.com/web-projects-cp/FS10-Git-Collaboration-Lab) - Git collaboration of request
+
 [World Capital Explorer](https://github.com/web-projects-cp/world_capital_explorer) - World Capital Explorer is a React-based web application that displays the capitals of countries around the world. This project provides an interactive way to explore country capitals with a clean, user-friendly interface.
+
 [express-ts-api-starter](https://github.com/web-projects-cp/express-ts-api-starter) - A clean, structured Express.js API starter with TypeScript, featuring user and product routes with logging and error handling.
 
 ---
