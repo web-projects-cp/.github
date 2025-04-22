@@ -62,6 +62,4 @@ Welcome to my **Web Projects** repository! This is a collection of frontend and 
 ---
 
 ✨ **Tip**: Press ⭐ on repositories you find interesting!
-```
-
 
