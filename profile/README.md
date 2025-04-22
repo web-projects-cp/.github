@@ -93,9 +93,7 @@ Welcome to my **Web Projects** repository! This is a collection of frontend and 
 
 
 
-Here's an enhanced version of your `README.md` with a **"More Projects"** section to showcase all your repositories while maintaining the clean structure:
 
-```markdown
 # 🌐 Web Projects Collection  
 
 Hi there 👋  
